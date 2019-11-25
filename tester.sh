@@ -1,4 +1,6 @@
 ! /bin/bash                                                                                                                                  
+#Author : Joshua Kyi
+#Function: A simple shell script to compare test cases from different directories
 
 time=$(date +"%a %B %e %T %Z %Y")
 echo "Tests run on " $time
